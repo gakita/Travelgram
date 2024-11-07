@@ -24,3 +24,24 @@ body{
     color: var(--text-color-secondary);
     background-color: var(--background-color);
 }
+
+a{
+    text-decoration: none;
+    color: inherit;
+    transition: .3s;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: var(--brand-color);
+}
+
+.container{
+    padding-inline: 2rem;
+    max-width: 1280px;
+    margin-inline: auto;
+}
+
+.bg-surface-color{
+    background-color: var(--surface-color);
+}
