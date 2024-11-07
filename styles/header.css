@@ -22,7 +22,16 @@ header .container{
     font: var(--text-lg);
     color: var(--text-color-primary);
     margin-bottom: .5rem;
+    display: flex;
+    align-items: center;
 }
+
+#profile h1 img{
+    width: 24px;
+    height: 24px;
+    margin-left: .5rem;
+}
+
 
 #profile p{
     font : var(--text-md);

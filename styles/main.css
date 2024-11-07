@@ -9,4 +9,11 @@ main img{
     width: 286px;
     height: 286px;
     object-fit: cover;
+    transition: .3s;
+    filter: grayscale(1);
+    cursor: pointer;
+}
+
+main img:hover{
+    filter: grayscale(0);
 }
