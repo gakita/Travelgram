@@ -52,4 +52,4 @@ Pode também apenas acessar o link no github ou acessar pelo READ ME [Travelgram
 Este projeto foi desenvolvido com base nos ensinamentos e materiais fornecidos pela [Rocketseat](https://rocketseat.com.br) 🚀, uma plataforma de aprendizado voltada para o desenvolvimento web e mobile.
 
 ## 🙋‍♂️ Contato 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gakita) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raul-antonio-5a38212a2)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gakita) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raul-antonio-5a38212a2)
