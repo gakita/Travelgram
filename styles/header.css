@@ -28,6 +28,13 @@ header .container{
     font : var(--text-md);
 }
 
+#profile img{
+    width: 176px;
+    height: 176px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
 #info{
     list-style: none;
     display: flex;
